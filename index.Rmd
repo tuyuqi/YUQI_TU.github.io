@@ -1,0 +1,21 @@
+---
+title: "Yuqi Tu"
+---
+
+### I have a webpage!
+
+Introduction of myself
+
+### have a link
+
+here is my [resume](https://www.google.com)
+
+here is my [about](about.html)
+
+
+### add picture 
+
+here is my picture:
+## can be put into a code chunk??
+
+<img src="images/uci_grad_photo.JPG" style="width:70%">
