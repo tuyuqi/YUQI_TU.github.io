@@ -1,9 +1,81 @@
 ---
 title: "About"
 ---
+<br>
 
-### About this site
+### EDUCATION
+***
+##### Columbia University   |   Mailman School of Public Health  |   New York, NY   |  Expected May 2019
+* *Master of Science in Biostatistics, concentrated in Theory and Method*
+    + Relevant Coursework:data science, probability, statistical inference, and survival analysis.
+    
+##### University of California, Irvine   |   Irvine, CA   |   June 2017
+* *Bachelor of Science in Biological Sciences*
+* *Honors:* Dean’s Honor List: 5 Quarters, Golden Key Honor Society, Phi Sigma Pi Honor Fraternity
+    + Relevant Coursework: Genetics, Biochemistry, Applied Human Anatomy, Human Physiology, Human Nutrition
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+<br>
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+### PROFESSIONAL EXPERIENCE
+***
+##### Project Assistant Intern | iCarbonX | Shenzhen, Guangdong, China  | June 2017 - August 2017
+* Collaborated with a Project Manager and Algorithm Engineers to collect and organize imaging data using Excel.
+* Created and managed an annotation system for 12,000+ imaging data and the measurement data from 3D camera to train our
+image recognition system.
+
+##### Research Assistant | Dept. of Pharmacology, School of Medicine, University of California, Irvine |  Irvine, CA  | September 2014 - June 2017
+* Assisted to perform genetic and animal experiments in Neuropharmacology in the melanin-concentrating hormone (MCH)
+system mediating oxytocin (OT) on autism spectrum disorders (ASD). Worked collaboratively in a team of 14 researchers.
+* Independently performed data analysis using Excel for animal behavior tests and imaging data from neuron activity
+examination. Followed procedures to perform mice dissection, DNA collections, and brain imaging.
+  
+##### Peer Health Educator  |  Student Wellness & Health Promotion, University of California, Irvine | Irvine, CA  | April 2016 - June 2017
+
+* Promoted healthy behaviors and lifestyles by giving speech on campus, facilitating interactive workshops, social marketing,
+and public outreach. Increased 70% more participants in Wellness workshops.
+* Advised students on various topics of wellness, alcohol and drug use, and sexual health and relationships.
+
+##### UROP Fellow with Research Funding  |  The Undergraduate Research Opportunities Program (UROP)  |  University of California, Irvine, CA  | August 2015 - June 2016
+* Awarded research grant from the Undergraduate Research Opportunities Program.
+* Conducted a research program in Neuropharmacology in the melanin-concentrating hormone (MCH) neuron ablation
+which affects repetitive behaviors on Obsessive-Compulsive Disorder (OCD) and Autism.
+* Managed the project schedule, wrote a proposal for fundings, led experiments, perform data analysis for 50+ groups of mice
+data using Excel, and presented poster at the UROP symposium.
+
+##### International Peer Advisor  |   The Francisco J. Ayala School of Biological Sciences, University of California, Irvine|  Irvine, CA  |  March 2015 - June 2017
+
+* Conducted interactive networking programs for 250+ international students to communicate with professional faculty and staff
+to strengthen the connection between international students and the school.
+* Advised students on scheduling classes, getting involved on campus, planning graduate school and future careers.
+
+
+<br>
+
+### SELECTED LEADERSHIP EXPERIENCE AND COMMUNITY INVOLVEMENT
+***
+##### Co-Founder and Research Director  |  Kids in Nutrition at UCI (KIN)  | University of California, Irvine, CA  | November 2016 - June 2017
+* Connected college and elementary school students to empower a healthy and active lifestyle.
+* Designed research model for improving class performance and collaborate with other chapters to develop a biological research
+project related to nutrition and education.
+* Recruited new elementary schools and UC Irvine students to join the program and presented instructor training to new
+members.
+
+##### Volunteer |  Emergency Department, UC Irvine Medical Center  | Orange, CA |June 2015 - June 2016
+* Assisted physicians and nurses by checking in 30+ patients daily, communicating with other departments in the hospital,
+providing medical supplies, and transferring patients to different departments.
+
+<br>
+
+### Skills
+***
+##### Software
+* R programming
+* SAS
+* ImaingJ
+* Adobe Photoshop
+* Python (basic)
+* Microsoft Word, Excel, and PowerPoint
+
+##### Languages
+* Chinese
+* English

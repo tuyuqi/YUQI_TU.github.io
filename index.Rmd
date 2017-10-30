@@ -2,22 +2,8 @@
 title: "Yuqi Tu"
 ---
 
-### I have a webpage!
+Welcome to my website!
 
-Introduction of myself: typing....please write
-
-and add some link here
-
-### have a link
-
-here is my [resume](https://www.google.com)
-
-here is my [about](about.html)
-
-
-### add picture 
-
-here is my picture:
-## can be put into a code chunk??
+Do you want to know more about [me](about.html)
 
 <img src="images/uci_grad_photo.JPG" style="width:70%">
