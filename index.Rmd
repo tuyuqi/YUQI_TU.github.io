@@ -2,8 +2,14 @@
 title: "Yuqi Tu"
 ---
 
-Welcome to my website!
+## Welcome to my website!
 
-Do you want to know more about [me](about.html)
+##### WHO?
+
+* I am a biostatistics-learner passionate about the crossover of health, statistics, techology. Currently, I am a master student majoring Biostatistics at Columbia Univeristy. After two-year study, I will be able to analyze medical data and collaborate with various professionals to improve human health. 
+
+
+
+Do you want to know more about [me](about.html)?
 
 <img src="images/uci_grad_photo.JPG" style="width:70%">
